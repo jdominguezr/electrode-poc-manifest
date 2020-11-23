@@ -1,0 +1,8 @@
+[
+    "react-native@0.63.3",
+    "react-native-code-push@1.17.1-beta",
+    "react-native-stack-tracer@0.1.1",
+    "react-native-vector-icons@4.0.0",
+    "react-native-maps@0.13.1",
+    "react-native-electrode-bridge@1.5.27"
+  ]
